@@ -7,6 +7,7 @@ Mobitek eshte nje  platforme online per blerjen e smartphone
 -ofron mundesine e perdorimit te shportes dixhitale
 -ofron mundesine e menaxhimit te shitjeve dhe produkteve nga admin
 
+Bashkangjitur eshte dhe Prezantimi ne PowerPoint
 LIVE perview: mobitek.ga
 
 user login : user@eshop.com
