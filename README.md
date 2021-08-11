@@ -11,7 +11,7 @@ Bashkangjitur eshte dhe Prezantimi ne PowerPoint
 ---
 LIVE preview: mobitek.ga
 ----
-user login : user@eshop.com
+user login : user@eshop.com 
 user pw: 123456
 
 admin login: admin@eshop.com  
